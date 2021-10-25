@@ -1,5 +1,5 @@
 # office-monsters
-![Screenshot](/src/assets/screenshot-1.png)
+![Screenshot](/src/assets/app-screenshot.png)
 
 Each monster card's information was fetched from a fake REST API (JSONPLaceholder).
 You can generate your own monster by visiting this [link](https://robohash.org/), and add your
